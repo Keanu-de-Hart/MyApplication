@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void Main(String [] args){
-        System.out.println("Hello, world, mars calling");
+        System.out.println("Hello, world, mars calling,yeah");
 
     }
 }
